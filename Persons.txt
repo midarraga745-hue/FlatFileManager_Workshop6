@@ -1,0 +1,4 @@
+1|Maria|Bedoya|322 311 4015|Medellín|15000.00
+2|Juan|Zuluaga|322 311 4620|Medellín|8200.00
+3|Brad|Pit|322 450 4545|Miami|14000000.00
+4|Carlos|Perez|321 456 7890|Bogotá|5000.00
